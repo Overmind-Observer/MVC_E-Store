@@ -7,9 +7,6 @@ C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\EStore(MV
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\EStore(MVC).runtimeconfig.dev.json
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\EStore(MVC).dll
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\EStore(MVC).pdb
-C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).csprojAssemblyReference.cache
-C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).csproj.CoreCompileInputs.cache
-C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).AssemblyInfoInputs.cache
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).AssemblyInfo.cs
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).RazorTargetAssemblyInfo.cache
@@ -18,3 +15,16 @@ C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).dll
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).pdb
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).genruntimeconfig.cache
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).csproj.CopyComplete
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\EStore(MVC).Views.dll
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).RazorAssemblyInfo.cache
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).RazorAssemblyInfo.cs
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).TagHelpers.input.cache
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).TagHelpers.output.cache
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).RazorCoreGenerate.cache
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).RazorTargetAssemblyInfo.cs
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).csprojAssemblyReference.cache
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Users\Overmind\Documents\GitHub\MVC_E-Store\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
