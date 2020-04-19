@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Overmind\\Documents\\GitHub\\MVC_E-Store\\EStore(MVC).csproj": {}
+    "C:\\Users\\Overmind\\Source\\Repos\\Overmind-Observer\\MVC_E-Store\\EStore(MVC).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Overmind\\Documents\\GitHub\\MVC_E-Store\\EStore(MVC).csproj": {
+    "C:\\Users\\Overmind\\Source\\Repos\\Overmind-Observer\\MVC_E-Store\\EStore(MVC).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Overmind\\Documents\\GitHub\\MVC_E-Store\\EStore(MVC).csproj",
+        "projectUniqueName": "C:\\Users\\Overmind\\Source\\Repos\\Overmind-Observer\\MVC_E-Store\\EStore(MVC).csproj",
         "projectName": "EStore(MVC)",
-        "projectPath": "C:\\Users\\Overmind\\Documents\\GitHub\\MVC_E-Store\\EStore(MVC).csproj",
+        "projectPath": "C:\\Users\\Overmind\\Source\\Repos\\Overmind-Observer\\MVC_E-Store\\EStore(MVC).csproj",
         "packagesPath": "C:\\Users\\Overmind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Overmind\\Documents\\GitHub\\MVC_E-Store\\obj\\",
+        "outputPath": "C:\\Users\\Overmind\\Source\\Repos\\Overmind-Observer\\MVC_E-Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RoWfTWNWnq9d3pOGtM7IcKvxhPcCpJDMlgECbACJ5BXYwjCiv3xz6D/shm8LvrlB+Opq3m2UmmmcuyUliU1NNQ==",
+  "dgSpecHash": "+kZzIaASyDl2W2NSy3czQuEqu1TW6IwUAAj97fX3pYLI5R4qph5PKuWB5SYG+j49vH5BNJDY+blYrAo3n0KpOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Overmind\\Documents\\GitHub\\MVC_E-Store\\EStore(MVC).csproj",
+  "projectFilePath": "C:\\Users\\Overmind\\Source\\Repos\\Overmind-Observer\\MVC_E-Store\\EStore(MVC).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Overmind\\.nuget\\packages\\antlr\\3.4.1.9004\\antlr.3.4.1.9004.nupkg.sha512",
     "C:\\Users\\Overmind\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
