@@ -43,3 +43,13 @@ C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\Microsoft
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Overmind\Documents\GitHub\MVC_E-Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).csprojAssemblyReference.cache
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).AssemblyInfoInputs.cache
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).AssemblyInfo.cs
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).TagHelpers.input.cache
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).TagHelpers.output.cache
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).dll
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).pdb
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).RazorCoreGenerate.cache
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).csproj.CoreCompileInputs.cache
+C:\Users\Overmind\Source\Repos\Overmind-Observer\MVC_E-Store\obj\Debug\netcoreapp3.1\EStore(MVC).MvcApplicationPartsAssemblyInfo.cache
