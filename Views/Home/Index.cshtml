@@ -1,3 +1,20 @@
-﻿
-<h1>Home page</h1>
+﻿@model List<EStore_MVC_.Models.Product>
+@{
+    ViewBag.Title = "ASP.NET MVC Store";
+}
+<div id="promotion">
+</div>
 
+<h3><em>Fresh</em> off the grill</h3>
+
+<ul id="product-list">
+    @foreach (var product in Model)
+    {
+        <li><a href="@Url.Action("Details", "Store",
+                new { id = product.ProductId })">
+
+            <img alt="@product.Title" src="@product.ProductImgUrl" />
+            <span>@product.Title</span> </a>
+        </li>
+    }
+</ul>
