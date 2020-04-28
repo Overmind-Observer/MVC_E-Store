@@ -1,0 +1,21 @@
+﻿@model EStore_MVC_.Models.Category
+ 
+@{
+    ViewBag.Title = "Browse products";
+}
+ 
+<div class="category">
+    <h3><em>@Model.Name</em> Products</h3>
+ 
+    <ul id="product-list">
+        @foreach (var product in Model.Products)
+        {
+            <li>
+                <a href="@Url.Action("Details", new { id = product.ProductId })">
+                    <img alt="@product.Title" src="@product.ProductImgUrl" />
+                    <span>@product.Title</span>
+                </a>
+            </li>
+        }
+    </ul>
+</div>
